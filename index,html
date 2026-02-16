@@ -6,6 +6,15 @@
   <title>Document</title>
 </head>
 <body>
+
+  <div class="лох">
+
+    <div>
+      <span>Gog</span>
+      <span>Dog</span>
+    </div>
+
+  </div>
   
 </body>
 </html>
